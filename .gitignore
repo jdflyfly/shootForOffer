@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# txt file
+*.txt
+
+# executive file
+*.out
+
+# mac file
+.DS_Store
