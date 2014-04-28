@@ -9,6 +9,8 @@ int count(int num) {
 	return cnt;
 }
 
+
+
 int main() {
 //	freopen("in.txt","r",stdin);
 	int n;
